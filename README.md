@@ -47,11 +47,11 @@ You can then make POST requests to this endpoint with the following JSON data:
 
 ```json
 
-`{
+{
     "api_key": "<your_api_key>",
     "model": "<internal_model_name>",
     "prompt": "<your_prompt>"
-}` 
+} 
 
 ```
 
