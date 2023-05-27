@@ -39,7 +39,7 @@ To start the API, run the `app.py` script:
 
 python app.py 
 
-```bash
+```
 
 The API endpoint will be available at `localhost:5000/api/v1/query`.
 
