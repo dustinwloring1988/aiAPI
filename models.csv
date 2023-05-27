@@ -1,0 +1,5 @@
+huggingface_name,internal_name,description
+Qiliang/bart-large-cnn-samsum-ChatGPT_v3,BartChatV3,"Bart model fine-tuned for chat on CNN/SamSum dataset"
+arun-shankar/ChatGPT-Neo,ChatGPTNeo,"A fine-tuned GPT-Neo model for chat tasks"
+cardiffnlp/twitter-roberta-base-sentiment-latest,TwitterSentimentRoberta,"Roberta model fine-tuned on sentiment analysis for tweets"
+nlptown/bert-base-multilingual-uncased-sentiment,MultiLingualBert,"Bert model for multilingual sentiment analysis"
